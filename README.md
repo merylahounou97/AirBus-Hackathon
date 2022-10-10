@@ -1,4 +1,5 @@
 # Hackathon AirBus: Détection et lecture des matricules des hélicoptères
+L'objectif de cet hackaton est de pouvoir détecter les matricules des hélicoptères avec des images et de pouvoir les lires.
 La détection des matricules a été fait avec le réseau Yolo 4, qui ont été découpés et lus par EasyOCR.
 
 # Détection
