@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID10019_Mi2_RF-00522_9.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID10019_Mi2_RF-00522_9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>785</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>406</xmin>
+			<ymin>262</ymin>
+			<xmax>558</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>

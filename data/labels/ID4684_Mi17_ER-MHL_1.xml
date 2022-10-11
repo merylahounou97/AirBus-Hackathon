@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID4684_Mi17_ER-MHL_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID4684_Mi17_ER-MHL_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1306</width>
+		<height>979</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1005</xmin>
+			<ymin>347</ymin>
+			<xmax>1074</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>

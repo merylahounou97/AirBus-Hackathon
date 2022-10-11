@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID7193_Mi2_SP-SXA_5.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID7193_Mi2_SP-SXA_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>708</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>654</xmin>
+			<ymin>342</ymin>
+			<xmax>741</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

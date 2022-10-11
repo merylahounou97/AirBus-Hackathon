@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID6911_Mi17_RF-38368_4.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID6911_Mi17_RF-38368_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>928</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>425</xmin>
+			<ymin>243</ymin>
+			<xmax>499</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

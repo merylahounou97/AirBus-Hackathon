@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID11555_Mi26_CCCP_82red_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID11555_Mi26_CCCP_82red_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>395</ymin>
+			<xmax>251</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

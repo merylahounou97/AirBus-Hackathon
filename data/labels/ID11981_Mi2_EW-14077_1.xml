@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID11981_Mi2_EW-14077_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID11981_Mi2_EW-14077_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>712</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>642</xmin>
+			<ymin>306</ymin>
+			<xmax>765</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

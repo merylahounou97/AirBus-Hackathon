@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID6781_Mi8_RA-24271_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID6781_Mi8_RA-24271_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>896</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>869</xmin>
+			<ymin>354</ymin>
+			<xmax>999</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID1039_Mi2_SP-FSD_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID1039_Mi2_SP-FSD_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>972</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>886</xmin>
+			<ymin>450</ymin>
+			<xmax>998</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+</annotation>

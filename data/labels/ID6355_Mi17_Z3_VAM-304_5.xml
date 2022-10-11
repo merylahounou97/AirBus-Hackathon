@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID6355_Mi17_Z3_VAM-304_5.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID6355_Mi17_Z3_VAM-304_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>602</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>276</ymin>
+			<xmax>379</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

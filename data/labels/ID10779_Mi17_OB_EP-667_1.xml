@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID10779_Mi17_OB_EP-667_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID10779_Mi17_OB_EP-667_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>712</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>703</xmin>
+			<ymin>323</ymin>
+			<xmax>755</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

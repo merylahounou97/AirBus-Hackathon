@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID5495_Mi2_SP-ZXA_3.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID5495_Mi2_SP-ZXA_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>708</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>536</xmin>
+			<ymin>299</ymin>
+			<xmax>647</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

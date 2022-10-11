@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID3003_Mi2_SP-ZXU_3.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID3003_Mi2_SP-ZXU_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>710</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymin>310</ymin>
+			<xmax>494</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

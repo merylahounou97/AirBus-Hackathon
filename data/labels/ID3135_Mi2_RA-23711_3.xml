@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID3135_Mi2_RA-23711_3.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID3135_Mi2_RA-23711_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1016</width>
+		<height>663</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>351</xmin>
+			<ymin>306</ymin>
+			<xmax>474</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

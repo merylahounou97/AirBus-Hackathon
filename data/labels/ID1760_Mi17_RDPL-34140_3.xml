@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID1760_Mi17_RDPL-34140_3.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID1760_Mi17_RDPL-34140_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>812</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>329</ymin>
+			<xmax>455</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+</annotation>

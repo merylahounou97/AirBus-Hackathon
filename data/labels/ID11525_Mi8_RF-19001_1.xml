@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID11525_Mi8_RF-19001_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID11525_Mi8_RF-19001_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>954</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>386</xmin>
+			<ymin>496</ymin>
+			<xmax>485</xmax>
+			<ymax>523</ymax>
+		</bndbox>
+	</object>
+</annotation>

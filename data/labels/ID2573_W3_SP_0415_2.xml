@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID2573_W3_SP_0415_2.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID2573_W3_SP_0415_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>665</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>579</xmin>
+			<ymin>300</ymin>
+			<xmax>647</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

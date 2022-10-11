@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID2323_SW4_HL9402_2.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID2323_SW4_HL9402_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>815</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>388</ymin>
+			<xmax>367</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

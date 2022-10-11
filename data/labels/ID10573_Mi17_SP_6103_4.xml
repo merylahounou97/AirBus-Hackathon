@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID10573_Mi17_SP_6103_4.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID10573_Mi17_SP_6103_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>711</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>304</ymin>
+			<xmax>468</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

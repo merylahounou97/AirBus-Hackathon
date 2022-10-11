@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID15072_Mi2_PH-DINO_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID15072_Mi2_PH-DINO_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>505</xmin>
+			<ymin>206</ymin>
+			<xmax>649</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

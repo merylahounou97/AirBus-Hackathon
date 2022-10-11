@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID15725_Mi2_SP_2706_7.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID15725_Mi2_SP_2706_7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>835</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>804</xmin>
+			<ymin>374</ymin>
+			<xmax>907</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>

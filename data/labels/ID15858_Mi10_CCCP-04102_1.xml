@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID15858_Mi10_CCCP-04102_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID15858_Mi10_CCCP-04102_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>835</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>896</xmin>
+			<ymin>409</ymin>
+			<xmax>967</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>

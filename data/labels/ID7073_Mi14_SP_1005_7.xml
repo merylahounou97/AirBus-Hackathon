@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID7073_Mi14_SP_1005_7.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID7073_Mi14_SP_1005_7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>708</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>277</ymin>
+			<xmax>213</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

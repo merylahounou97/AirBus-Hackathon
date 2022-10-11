@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID7826_Mi17_T9_A-2603_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID7826_Mi17_T9_A-2603_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>622</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>304</ymin>
+			<xmax>241</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

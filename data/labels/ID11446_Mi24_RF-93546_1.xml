@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID11446_Mi24_RF-93546_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID11446_Mi24_RF-93546_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1400</width>
+		<height>933</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>588</xmin>
+			<ymin>409</ymin>
+			<xmax>657</xmax>
+			<ymax>524</ymax>
+		</bndbox>
+	</object>
+</annotation>

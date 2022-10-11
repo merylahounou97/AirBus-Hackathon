@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID265_Mi8_OM_B-8532_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID265_Mi8_OM_B-8532_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>707</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>685</xmin>
+			<ymin>230</ymin>
+			<xmax>751</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

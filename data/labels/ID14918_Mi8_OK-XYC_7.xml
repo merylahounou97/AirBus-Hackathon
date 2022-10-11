@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID14918_Mi8_OK-XYC_7.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID14918_Mi8_OK-XYC_7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>711</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>311</ymin>
+			<xmax>308</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

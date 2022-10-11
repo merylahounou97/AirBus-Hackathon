@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID10142_Mi17_RF-91185_3.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID10142_Mi17_RF-91185_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1191</width>
+		<height>792</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>385</ymin>
+			<xmax>243</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>

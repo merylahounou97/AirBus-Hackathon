@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID6738_Mi8_RF-20443_3.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID6738_Mi8_RF-20443_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>980</width>
+		<height>711</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>783</xmin>
+			<ymin>370</ymin>
+			<xmax>843</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>

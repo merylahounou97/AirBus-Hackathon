@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID15259_Mi17_TC_J-1701_2.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID15259_Mi17_TC_J-1701_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>828</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>440</xmin>
+			<ymin>345</ymin>
+			<xmax>505</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

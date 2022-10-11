@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID8287_Mi17_RF-31131_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID8287_Mi17_RF-31131_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>750</xmin>
+			<ymin>380</ymin>
+			<xmax>871</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>

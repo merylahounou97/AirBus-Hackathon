@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID7052_Mi8_DM-SPA_6.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID7052_Mi8_DM-SPA_6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>708</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>663</xmin>
+			<ymin>229</ymin>
+			<xmax>735</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>

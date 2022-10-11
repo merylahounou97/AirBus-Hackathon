@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID5156_Mi17_HK-3758_2.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID5156_Mi17_HK-3758_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>936</width>
+		<height>636</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>599</xmin>
+			<ymin>293</ymin>
+			<xmax>639</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

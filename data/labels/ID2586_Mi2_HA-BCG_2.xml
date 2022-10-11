@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID2586_Mi2_HA-BCG_2.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID2586_Mi2_HA-BCG_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>707</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>499</xmin>
+			<ymin>320</ymin>
+			<xmax>628</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

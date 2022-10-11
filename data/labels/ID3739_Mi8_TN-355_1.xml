@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID3739_Mi8_TN-355_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID3739_Mi8_TN-355_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>707</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>737</xmin>
+			<ymin>331</ymin>
+			<xmax>809</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+</annotation>

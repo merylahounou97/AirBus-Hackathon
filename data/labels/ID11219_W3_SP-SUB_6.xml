@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID11219_W3_SP-SUB_6.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID11219_W3_SP-SUB_6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>671</xmin>
+			<ymin>289</ymin>
+			<xmax>758</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID11959_Mi8_4K-24590_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID11959_Mi8_4K-24590_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>712</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>374</ymin>
+			<xmax>343</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>

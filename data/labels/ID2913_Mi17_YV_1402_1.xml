@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID2913_Mi17_YV_1402_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID2913_Mi17_YV_1402_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>714</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>722</xmin>
+			<ymin>347</ymin>
+			<xmax>763</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+</annotation>

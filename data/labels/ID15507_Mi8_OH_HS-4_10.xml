@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID15507_Mi8_OH_HS-4_10.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID15507_Mi8_OH_HS-4_10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>711</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>313</ymin>
+			<xmax>434</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>

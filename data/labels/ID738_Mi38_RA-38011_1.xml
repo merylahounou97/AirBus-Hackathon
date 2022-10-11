@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID738_Mi38_RA-38011_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID738_Mi38_RA-38011_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1076</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1176</xmin>
+			<ymin>461</ymin>
+			<xmax>1374</xmax>
+			<ymax>506</ymax>
+		</bndbox>
+	</object>
+</annotation>

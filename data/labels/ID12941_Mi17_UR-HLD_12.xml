@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID12941_Mi17_UR-HLD_12.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID12941_Mi17_UR-HLD_12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>828</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>905</xmin>
+			<ymin>430</ymin>
+			<xmax>973</xmax>
+			<ymax>458</ymax>
+		</bndbox>
+	</object>
+</annotation>

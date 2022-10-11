@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID2604_Mi17_OB_EP-645_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID2604_Mi17_OB_EP-645_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1072</width>
+		<height>725</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>784</xmin>
+			<ymin>364</ymin>
+			<xmax>822</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>

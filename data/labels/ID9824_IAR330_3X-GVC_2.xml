@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID9824_IAR330_3X-GVC_2.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID9824_IAR330_3X-GVC_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1100</width>
+		<height>746</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>319</ymin>
+			<xmax>427</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

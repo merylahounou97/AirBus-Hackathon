@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID15096_Mi8_TC-HDA_4.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID15096_Mi8_TC-HDA_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>791</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>966</xmin>
+			<ymin>436</ymin>
+			<xmax>1026</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>

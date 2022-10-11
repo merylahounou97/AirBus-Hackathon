@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID821_W3_HL9265_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID821_W3_HL9265_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>973</width>
+		<height>663</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>235</ymin>
+			<xmax>357</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

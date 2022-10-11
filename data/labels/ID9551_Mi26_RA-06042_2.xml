@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID9551_Mi26_RA-06042_2.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID9551_Mi26_RA-06042_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>614</xmin>
+			<ymin>285</ymin>
+			<xmax>737</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

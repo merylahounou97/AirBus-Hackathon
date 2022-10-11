@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID13826_Mi2_ER-20170_3.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID13826_Mi2_ER-20170_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>165</ymin>
+			<xmax>313</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>

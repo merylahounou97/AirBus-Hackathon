@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID334_Mi2_RA-20413_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID334_Mi2_RA-20413_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>552</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>268</ymin>
+			<xmax>376</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

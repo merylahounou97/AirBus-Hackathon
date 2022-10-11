@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID5468_Mi2_UP-MI213_3.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID5468_Mi2_UP-MI213_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>709</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>652</xmin>
+			<ymin>323</ymin>
+			<xmax>729</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>

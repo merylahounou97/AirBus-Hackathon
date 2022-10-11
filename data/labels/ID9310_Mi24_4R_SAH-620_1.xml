@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID9310_Mi24_4R_SAH-620_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID9310_Mi24_4R_SAH-620_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>711</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>324</ymin>
+			<xmax>353</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID3482_W3_SP-SUO_2.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID3482_W3_SP-SUO_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>886</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>780</xmin>
+			<ymin>459</ymin>
+			<xmax>909</xmax>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+</annotation>

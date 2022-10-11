@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID10288_Mi2_EW-030AO_3.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID10288_Mi2_EW-030AO_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1165</width>
+		<height>874</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>441</ymin>
+			<xmax>426</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+</annotation>

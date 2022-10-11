@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_jetson_photo</folder>
+	<filename>ID_5699498_53103_1143699915.jpg</filename>
+	<path>/root/Bureau/data_science/helico_jetson_photo/ID_5699498_53103_1143699915.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>707</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>681</xmin>
+			<ymin>356</ymin>
+			<xmax>759</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID1767_Mi17_OK_0835_2.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID1767_Mi17_OK_0835_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymin>307</ymin>
+			<xmax>476</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>

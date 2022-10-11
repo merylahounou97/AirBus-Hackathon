@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID2582_Mi2_SP-SXB_2.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID2582_Mi2_SP-SXB_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>556</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>507</xmin>
+			<ymin>221</ymin>
+			<xmax>571</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

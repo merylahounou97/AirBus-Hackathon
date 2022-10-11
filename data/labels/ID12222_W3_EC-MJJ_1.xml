@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID12222_W3_EC-MJJ_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID12222_W3_EC-MJJ_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>828</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>808</xmin>
+			<ymin>368</ymin>
+			<xmax>907</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

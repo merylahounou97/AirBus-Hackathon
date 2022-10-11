@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID1926_W3_SP-SWA_4.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID1926_W3_SP-SWA_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>534</xmin>
+			<ymin>219</ymin>
+			<xmax>603</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID7502_Mi17_CCCP-25446_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID7502_Mi17_CCCP-25446_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>708</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>636</xmin>
+			<ymin>312</ymin>
+			<xmax>762</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

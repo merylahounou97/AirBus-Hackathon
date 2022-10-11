@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID14591_Mi26_7T_SL-66_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID14591_Mi26_7T_SL-66_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>835</xmin>
+			<ymin>378</ymin>
+			<xmax>890</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+</annotation>

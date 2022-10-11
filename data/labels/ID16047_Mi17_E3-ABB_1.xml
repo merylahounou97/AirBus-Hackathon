@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID16047_Mi17_E3-ABB_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID16047_Mi17_E3-ABB_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>657</xmin>
+			<ymin>165</ymin>
+			<xmax>713</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

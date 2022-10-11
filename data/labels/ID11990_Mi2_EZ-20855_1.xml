@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID11990_Mi2_EZ-20855_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID11990_Mi2_EZ-20855_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>712</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>537</xmin>
+			<ymin>330</ymin>
+			<xmax>683</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>

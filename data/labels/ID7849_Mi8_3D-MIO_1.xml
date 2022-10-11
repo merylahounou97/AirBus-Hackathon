@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID7849_Mi8_3D-MIO_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID7849_Mi8_3D-MIO_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>708</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>297</ymin>
+			<xmax>359</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

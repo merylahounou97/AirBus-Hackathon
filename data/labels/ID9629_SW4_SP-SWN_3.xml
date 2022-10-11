@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID9629_SW4_SP-SWN_3.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID9629_SW4_SP-SWN_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>712</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>698</xmin>
+			<ymin>249</ymin>
+			<xmax>798</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

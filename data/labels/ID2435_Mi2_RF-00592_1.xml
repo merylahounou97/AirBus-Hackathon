@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID2435_Mi2_RF-00592_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID2435_Mi2_RF-00592_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>693</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>722</xmin>
+			<ymin>379</ymin>
+			<xmax>785</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

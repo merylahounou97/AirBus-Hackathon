@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID9541_Mi17_AP_58616_3.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID9541_Mi17_AP_58616_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>310</ymin>
+			<xmax>275</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID4197_Mi2_SP_7332_8.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID4197_Mi2_SP_7332_8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>711</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>730</xmin>
+			<ymin>341</ymin>
+			<xmax>798</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

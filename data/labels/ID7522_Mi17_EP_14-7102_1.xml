@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID7522_Mi17_EP_14-7102_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID7522_Mi17_EP_14-7102_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>695</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>261</ymin>
+			<xmax>255</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

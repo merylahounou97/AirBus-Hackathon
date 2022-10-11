@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID10517_Mi8_UR_01_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID10517_Mi8_UR_01_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>882</xmin>
+			<ymin>212</ymin>
+			<xmax>926</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

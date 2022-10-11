@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID16415_Mi17_4L_GBP-10002_3.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID16415_Mi17_4L_GBP-10002_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>683</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>423</xmin>
+			<ymin>323</ymin>
+			<xmax>480</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID10380_Mi17_CCCP-06155_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID10380_Mi17_CCCP-06155_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>712</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>651</xmin>
+			<ymin>268</ymin>
+			<xmax>926</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

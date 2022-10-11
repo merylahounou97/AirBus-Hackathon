@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID8144_Mi8_LZ-CAR_8.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID8144_Mi8_LZ-CAR_8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1012</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>876</xmin>
+			<ymin>739</ymin>
+			<xmax>1000</xmax>
+			<ymax>777</ymax>
+		</bndbox>
+	</object>
+</annotation>

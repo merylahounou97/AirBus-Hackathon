@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID8930_Mi8_VT_Z2388_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID8930_Mi8_VT_Z2388_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>373</xmin>
+			<ymin>257</ymin>
+			<xmax>460</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID2998_Mi2_SP_5245_3.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID2998_Mi2_SP_5245_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>708</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>625</xmin>
+			<ymin>349</ymin>
+			<xmax>704</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

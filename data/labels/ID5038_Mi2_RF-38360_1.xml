@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID5038_Mi2_RF-38360_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID5038_Mi2_RF-38360_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>708</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>327</xmin>
+			<ymin>310</ymin>
+			<xmax>437</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

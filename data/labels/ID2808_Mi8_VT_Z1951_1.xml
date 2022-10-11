@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID2808_Mi8_VT_Z1951_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID2808_Mi8_VT_Z1951_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>531</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>289</ymin>
+			<xmax>409</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

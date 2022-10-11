@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID7393_Mi8_RA-24747_3.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID7393_Mi8_RA-24747_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>708</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>588</xmin>
+			<ymin>265</ymin>
+			<xmax>662</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

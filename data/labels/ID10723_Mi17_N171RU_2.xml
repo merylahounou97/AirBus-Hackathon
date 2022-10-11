@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID10723_Mi17_N171RU_2.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID10723_Mi17_N171RU_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>848</width>
+		<height>566</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>270</ymin>
+			<xmax>192</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

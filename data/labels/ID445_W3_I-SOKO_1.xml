@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID445_W3_I-SOKO_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID445_W3_I-SOKO_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>347</xmin>
+			<ymin>336</ymin>
+			<xmax>387</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

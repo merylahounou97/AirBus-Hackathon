@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID10020_Mi2_UR-MSR_2.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID10020_Mi2_UR-MSR_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>807</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>364</xmin>
+			<ymin>409</ymin>
+			<xmax>453</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

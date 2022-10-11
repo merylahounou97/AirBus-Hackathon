@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID14448_Mi8_OB-2133P_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID14448_Mi8_OB-2133P_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>360</ymin>
+			<xmax>256</xmax>
+			<ymax>399</ymax>
+		</bndbox>
+	</object>
+</annotation>

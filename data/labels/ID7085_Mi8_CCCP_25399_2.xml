@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID7085_Mi8_CCCP_25399_2.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID7085_Mi8_CCCP_25399_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>708</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>749</xmin>
+			<ymin>282</ymin>
+			<xmax>791</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID2488_Mi14_SP_1012_4.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID2488_Mi14_SP_1012_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1023</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>361</ymin>
+			<xmax>290</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

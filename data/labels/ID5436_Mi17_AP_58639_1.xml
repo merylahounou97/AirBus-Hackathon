@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID5436_Mi17_AP_58639_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID5436_Mi17_AP_58639_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1008</width>
+		<height>690</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>690</xmin>
+			<ymin>391</ymin>
+			<xmax>746</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>

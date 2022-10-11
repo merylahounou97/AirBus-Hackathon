@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID10143_Mi17_RF-91183_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID10143_Mi17_RF-91183_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1192</width>
+		<height>795</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>403</ymin>
+			<xmax>264</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>

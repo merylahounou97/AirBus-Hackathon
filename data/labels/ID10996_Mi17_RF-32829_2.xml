@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID10996_Mi17_RF-32829_2.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID10996_Mi17_RF-32829_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>816</xmin>
+			<ymin>320</ymin>
+			<xmax>890</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

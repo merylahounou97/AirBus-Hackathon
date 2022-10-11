@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID868_Mi2_YV1201_1.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID868_Mi2_YV1201_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>644</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>542</xmin>
+			<ymin>317</ymin>
+			<xmax>638</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

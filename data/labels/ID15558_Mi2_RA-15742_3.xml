@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID15558_Mi2_RA-15742_3.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID15558_Mi2_RA-15742_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>340</ymin>
+			<xmax>399</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

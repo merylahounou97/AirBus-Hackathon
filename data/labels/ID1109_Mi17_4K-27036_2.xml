@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helico_images</folder>
+	<filename>ID1109_Mi17_4K-27036_2.jpg</filename>
+	<path>/root/Bureau/data_science/helico_images/ID1109_Mi17_4K-27036_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>712</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>691</xmin>
+			<ymin>351</ymin>
+			<xmax>772</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>
