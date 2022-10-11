@@ -1,5 +1,8 @@
+# Zip file
+.zip
+
 # Model weights
- *.weights
+ .weights
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
