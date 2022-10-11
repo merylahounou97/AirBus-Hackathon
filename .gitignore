@@ -1,3 +1,6 @@
+# Zip file
+*.zip
+
 # Model weights
  *.weights
 
