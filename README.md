@@ -30,11 +30,11 @@ La solution combine des techniques de vision par ordinateur et de reconnaissance
 
 3. **Extraction des zones d’intérêt** :
    - Découpage des zones détectées pour les préparer à la reconnaissance optique.
+  ![image](https://user-images.githubusercontent.com/91097262/168992387-7c0f971b-8a86-4e23-a4fe-a17b7e5d4063.png)
+  ![image](https://user-images.githubusercontent.com/91097262/168992514-89ce498e-38f8-4e58-8aea-eb2c202f9528.png)
 
 4. **Lecture des matricules avec EasyOCR** :
    - Application d’OCR sur les zones extraites pour obtenir les matricules sous forme de texte.
-  ![image](https://user-images.githubusercontent.com/91097262/168992387-7c0f971b-8a86-4e23-a4fe-a17b7e5d4063.png)
-  ![image](https://user-images.githubusercontent.com/91097262/168992514-89ce498e-38f8-4e58-8aea-eb2c202f9528.png)
   ![image](https://user-images.githubusercontent.com/91097262/168992606-073f9224-b4e0-445d-9d6e-603bd44dae06.png)
 
 
